@@ -2,6 +2,8 @@ Alberto Cedillo Vega
 
 correo de contacto kambalamcv@hotmail.com
 
+"en la carpeta codigomorse/scr/morse.java se encuentra en codigo en si"
+
 este es un pequeño manual de como operar este programa
 
 Descargar el programa e importarlo a java
